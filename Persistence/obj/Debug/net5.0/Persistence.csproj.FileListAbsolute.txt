@@ -1,0 +1,15 @@
+/Users/andy/c/SocialNetwork/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/andy/c/SocialNetwork/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/andy/c/SocialNetwork/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/andy/c/SocialNetwork/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/andy/c/SocialNetwork/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/andy/c/SocialNetwork/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/andy/c/SocialNetwork/Persistence/obj/Debug/net5.0/Persistence.pdb
